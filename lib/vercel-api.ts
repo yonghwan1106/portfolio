@@ -1,10 +1,10 @@
 import { VercelProject, VercelTeam } from './types';
 
-const VERCEL_TOKEN = process.env.VERCEL_TOKEN;
-const VERCEL_TEAM_ID = process.env.VERCEL_TEAM_ID || 'team_p2KV5idvV2dx3IWyN4i659UX';
+const VERCEL_TOKEN = process.env.VERCEL_API_TOKEN;
+const VERCEL_TEAM_ID = process.env.VERCEL_API_TEAM_ID || 'team_p2KV5idvV2dx3IWyN4i659UX';
 
 if (!VERCEL_TOKEN) {
-  console.warn('VERCEL_TOKEN is not set. API calls will fail.');
+  console.warn('VERCEL_API_TOKEN is not set. API calls will fail.');
 }
 
 const VERCEL_API_BASE = 'https://api.vercel.com';

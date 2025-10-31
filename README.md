@@ -38,8 +38,8 @@ npm install
 `.env.local` 파일을 생성하고 Vercel API 토큰을 설정합니다:
 
 ```env
-VERCEL_TOKEN=your_vercel_token_here
-VERCEL_TEAM_ID=team_p2KV5idvV2dx3IWyN4i659UX
+VERCEL_API_TOKEN=your_vercel_token_here
+VERCEL_API_TEAM_ID=team_p2KV5idvV2dx3IWyN4i659UX
 ```
 
 **Vercel API 토큰 생성 방법:**
@@ -109,7 +109,7 @@ vercel
 또는 GitHub 연동을 통해 자동 배포:
 1. GitHub에 리포지토리 푸시
 2. Vercel 대시보드에서 Import Project
-3. 환경변수 설정 (VERCEL_TOKEN)
+3. 환경변수 설정 (VERCEL_API_TOKEN, VERCEL_API_TEAM_ID)
 4. 배포
 
 ## 커스터마이징
