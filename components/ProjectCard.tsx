@@ -1,5 +1,4 @@
 import React from 'react';
-import Link from 'next/link';
 import { Project } from '@/lib/types';
 import {
   Card,
@@ -90,7 +89,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
       </CardContent>
 
       <CardFooter className="flex gap-2">
-        {project.productionUrl && (
+        {project.productionUrl ? (
           <Button asChild size="sm" className="flex-1">
             <a
               href={project.productionUrl}
@@ -98,8 +97,13 @@ export default function ProjectCard({ project }: ProjectCardProps) {
               rel="noopener noreferrer"
             >
               <ExternalLink className="w-4 h-4 mr-1" />
-              Live
+              프로젝트 보기
             </a>
+          </Button>
+        ) : (
+          <Button size="sm" disabled className="flex-1">
+            <ExternalLink className="w-4 h-4 mr-1" />
+            URL 없음
           </Button>
         )}
         {project.githubUrl && (
@@ -113,9 +117,6 @@ export default function ProjectCard({ project }: ProjectCardProps) {
             </a>
           </Button>
         )}
-        <Button asChild size="sm" variant="secondary" className="flex-1">
-          <Link href={`/projects/${project.name}`}>상세</Link>
-        </Button>
       </CardFooter>
     </Card>
   );
