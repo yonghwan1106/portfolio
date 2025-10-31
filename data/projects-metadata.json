@@ -1,0 +1,103 @@
+[
+  {
+    "name": "they-work-for-yongincitizen",
+    "displayName": "용인시민을 위해 일하는 의원",
+    "description": "용인시 의원들의 의정활동 비용을 투명하게 공개하고 분석하는 시민 참여 플랫폼",
+    "category": "시민참여/정부혁신",
+    "tags": ["정치", "투명성", "데이터분석", "시민참여"],
+    "featured": true,
+    "githubUrl": "https://github.com/yourusername/they-work-for-yongincitizen",
+    "highlights": [
+      "용인시 의원 의정활동비 데이터 시각화",
+      "PDF 자동 파싱 및 데이터베이스 구축",
+      "시민 누구나 쉽게 접근할 수 있는 UI/UX"
+    ]
+  },
+  {
+    "name": "autonomous-response-platform",
+    "displayName": "자율 대응 플랫폼",
+    "description": "자동화된 응답 시스템을 제공하는 AI 기반 플랫폼",
+    "category": "AI/데이터분석",
+    "tags": ["AI", "자동화", "Next.js"],
+    "featured": true,
+    "highlights": [
+      "AI 기반 자동 응답 시스템",
+      "실시간 데이터 처리",
+      "확장 가능한 아키텍처"
+    ]
+  },
+  {
+    "name": "career-bridge",
+    "displayName": "커리어 브릿지",
+    "description": "취업과 경력 개발을 돕는 플랫폼",
+    "category": "교육/복지",
+    "tags": ["취업", "경력개발", "교육"],
+    "featured": false,
+    "highlights": [
+      "맞춤형 취업 정보 제공",
+      "경력 개발 로드맵",
+      "멘토링 매칭 시스템"
+    ]
+  },
+  {
+    "name": "yongin-greenwatch",
+    "displayName": "용인 그린워치",
+    "description": "용인시의 환경 데이터를 모니터링하고 분석하는 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["환경", "모니터링", "데이터"],
+    "featured": true,
+    "highlights": [
+      "실시간 환경 데이터 수집",
+      "대기질 분석 및 예측",
+      "시민 리포트 기능"
+    ]
+  },
+  {
+    "name": "sejong-citizen-welfare",
+    "displayName": "세종시민 복지",
+    "description": "세종시 시민을 위한 복지 정보 통합 플랫폼",
+    "category": "교육/복지",
+    "tags": ["복지", "공공서비스", "정보제공"],
+    "featured": false
+  },
+  {
+    "name": "ets-zero",
+    "displayName": "ETS Zero",
+    "description": "탄소배출권 거래 및 넷제로 달성을 위한 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["탄소배출", "ESG", "기후변화"],
+    "featured": true
+  },
+  {
+    "name": "centenarian-life-webapp",
+    "displayName": "백세 인생 웹앱",
+    "description": "100세 시대를 대비한 건강 및 생활 관리 앱",
+    "category": "교육/복지",
+    "tags": ["건강", "시니어", "라이프스타일"],
+    "featured": false
+  },
+  {
+    "name": "jeonnam-sangsang-plus",
+    "displayName": "전남 상상플러스",
+    "description": "전라남도 지역 발전을 위한 아이디어 플랫폼",
+    "category": "시민참여/정부혁신",
+    "tags": ["지역개발", "시민아이디어", "협업"],
+    "featured": false
+  },
+  {
+    "name": "clean-neung",
+    "displayName": "클린 능",
+    "description": "청정 능력 향상을 위한 환경 관리 솔루션",
+    "category": "ESG/환경",
+    "tags": ["환경", "청정", "관리"],
+    "featured": false
+  },
+  {
+    "name": "eco-hub",
+    "displayName": "에코 허브",
+    "description": "친환경 프로젝트를 연결하는 허브 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["친환경", "네트워킹", "프로젝트"],
+    "featured": true
+  }
+]
