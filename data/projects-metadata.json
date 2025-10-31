@@ -6,7 +6,6 @@
     "category": "시민참여/정부혁신",
     "tags": ["정치", "투명성", "데이터분석", "시민참여"],
     "featured": true,
-    "githubUrl": "https://github.com/yourusername/they-work-for-yongincitizen",
     "highlights": [
       "용인시 의원 의정활동비 데이터 시각화",
       "PDF 자동 파싱 및 데이터베이스 구축",
@@ -24,32 +23,6 @@
       "AI 기반 자동 응답 시스템",
       "실시간 데이터 처리",
       "확장 가능한 아키텍처"
-    ]
-  },
-  {
-    "name": "career-bridge",
-    "displayName": "커리어 브릿지",
-    "description": "취업과 경력 개발을 돕는 플랫폼",
-    "category": "교육/복지",
-    "tags": ["취업", "경력개발", "교육"],
-    "featured": false,
-    "highlights": [
-      "맞춤형 취업 정보 제공",
-      "경력 개발 로드맵",
-      "멘토링 매칭 시스템"
-    ]
-  },
-  {
-    "name": "yongin-greenwatch",
-    "displayName": "용인 그린워치",
-    "description": "용인시의 환경 데이터를 모니터링하고 분석하는 플랫폼",
-    "category": "ESG/환경",
-    "tags": ["환경", "모니터링", "데이터"],
-    "featured": true,
-    "highlights": [
-      "실시간 환경 데이터 수집",
-      "대기질 분석 및 예측",
-      "시민 리포트 기능"
     ]
   },
   {
@@ -85,11 +58,133 @@
     "featured": false
   },
   {
+    "name": "yongin-greenwatch",
+    "displayName": "용인 그린워치",
+    "description": "용인시의 환경 데이터를 모니터링하고 분석하는 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["환경", "모니터링", "데이터"],
+    "featured": true,
+    "highlights": [
+      "실시간 환경 데이터 수집",
+      "대기질 분석 및 예측",
+      "시민 리포트 기능"
+    ]
+  },
+  {
     "name": "clean-neung",
     "displayName": "클린 능",
     "description": "청정 능력 향상을 위한 환경 관리 솔루션",
     "category": "ESG/환경",
     "tags": ["환경", "청정", "관리"],
+    "featured": false
+  },
+  {
+    "name": "dalseong-gun-sunset-protocol",
+    "displayName": "달성군 일몰 프로토콜",
+    "description": "달성군의 조례 및 규정 일몰제 관리 시스템",
+    "category": "시민참여/정부혁신",
+    "tags": ["행정", "조례관리", "일몰제"],
+    "featured": false
+  },
+  {
+    "name": "yongincity-business-expenses",
+    "displayName": "용인시 업무추진비",
+    "description": "용인시 업무추진비 내역을 투명하게 공개하는 플랫폼",
+    "category": "시민참여/정부혁신",
+    "tags": ["투명성", "예산", "공공데이터"],
+    "featured": true
+  },
+  {
+    "name": "yongin-small-biz-platform",
+    "displayName": "용인 소상공인 플랫폼",
+    "description": "용인시 소상공인 지원 및 정보 공유 플랫폼",
+    "category": "기타",
+    "tags": ["소상공인", "경제", "지원사업"],
+    "featured": false
+  },
+  {
+    "name": "jojinyong-thesis",
+    "displayName": "조진용 논문",
+    "description": "학술 논문 관리 및 공유 플랫폼",
+    "category": "교육/복지",
+    "tags": ["논문", "학술", "연구"],
+    "featured": false
+  },
+  {
+    "name": "living-barrier-free-city",
+    "displayName": "생활 무장애 도시",
+    "description": "장애인 친화적인 무장애 도시 구축을 위한 정보 플랫폼",
+    "category": "교육/복지",
+    "tags": ["무장애", "접근성", "복지"],
+    "featured": true
+  },
+  {
+    "name": "tidal-flat-carbon-savings",
+    "displayName": "갯벌 탄소 저축",
+    "description": "갯벌 생태계의 탄소 저장 효과를 측정하고 관리하는 시스템",
+    "category": "ESG/환경",
+    "tags": ["갯벌", "탄소저장", "생태계"],
+    "featured": true
+  },
+  {
+    "name": "gwangbok-100-idea",
+    "displayName": "광복 100주년 아이디어",
+    "description": "광복 100주년을 기념하는 시민 아이디어 플랫폼",
+    "category": "시민참여/정부혁신",
+    "tags": ["광복절", "시민참여", "기념사업"],
+    "featured": false
+  },
+  {
+    "name": "yongin-civic-data-hub",
+    "displayName": "용인 시민 데이터 허브",
+    "description": "용인시 공공데이터를 통합하고 시각화하는 허브",
+    "category": "시민참여/정부혁신",
+    "tags": ["공공데이터", "시각화", "오픈데이터"],
+    "featured": true
+  },
+  {
+    "name": "career-bridge",
+    "displayName": "커리어 브릿지",
+    "description": "취업과 경력 개발을 돕는 플랫폼",
+    "category": "교육/복지",
+    "tags": ["취업", "경력개발", "교육"],
+    "featured": false,
+    "highlights": [
+      "맞춤형 취업 정보 제공",
+      "경력 개발 로드맵",
+      "멘토링 매칭 시스템"
+    ]
+  },
+  {
+    "name": "personal-financial-digital-twin",
+    "displayName": "개인 금융 디지털 트윈",
+    "description": "개인 재무 상태를 시뮬레이션하는 디지털 트윈 서비스",
+    "category": "AI/데이터분석",
+    "tags": ["핀테크", "시뮬레이션", "재무설계"],
+    "featured": true
+  },
+  {
+    "name": "k-grid-guidance",
+    "displayName": "K-Grid 가이던스",
+    "description": "한국형 스마트 그리드 구축을 위한 가이드 시스템",
+    "category": "ESG/환경",
+    "tags": ["스마트그리드", "에너지", "전력망"],
+    "featured": false
+  },
+  {
+    "name": "smart-building-esg-monitoring",
+    "displayName": "스마트빌딩 ESG 모니터링",
+    "description": "빌딩의 ESG 성과를 실시간으로 모니터링하는 시스템",
+    "category": "ESG/환경",
+    "tags": ["스마트빌딩", "ESG", "에너지효율"],
+    "featured": true
+  },
+  {
+    "name": "infra-flow-ai",
+    "displayName": "인프라플로우 AI",
+    "description": "AI 기반 인프라 관리 및 최적화 솔루션",
+    "category": "AI/데이터분석",
+    "tags": ["AI", "인프라", "최적화"],
     "featured": false
   },
   {
@@ -99,5 +194,221 @@
     "category": "ESG/환경",
     "tags": ["친환경", "네트워킹", "프로젝트"],
     "featured": true
+  },
+  {
+    "name": "lexi-junior",
+    "displayName": "렉시 주니어",
+    "description": "아동용 법률 교육 플랫폼",
+    "category": "교육/복지",
+    "tags": ["법률교육", "아동", "교육"],
+    "featured": false
+  },
+  {
+    "name": "green-path",
+    "displayName": "그린 패스",
+    "description": "친환경 이동 경로를 추천하는 내비게이션 서비스",
+    "category": "ESG/환경",
+    "tags": ["친환경", "모빌리티", "경로안내"],
+    "featured": false
+  },
+  {
+    "name": "spectrum-watch",
+    "displayName": "스펙트럼 워치",
+    "description": "전파 스펙트럼 모니터링 및 관리 시스템",
+    "category": "기타",
+    "tags": ["전파", "스펙트럼", "모니터링"],
+    "featured": false
+  },
+  {
+    "name": "forest-welfare",
+    "displayName": "산림 복지",
+    "description": "산림을 활용한 국민 복지 증진 플랫폼",
+    "category": "교육/복지",
+    "tags": ["산림", "복지", "힐링"],
+    "featured": false
+  },
+  {
+    "name": "y-smart-app",
+    "displayName": "Y 스마트 앱",
+    "description": "통합 스마트 시티 서비스 애플리케이션",
+    "category": "기타",
+    "tags": ["스마트시티", "통합서비스", "모바일"],
+    "featured": false
+  },
+  {
+    "name": "rewear",
+    "displayName": "리웨어",
+    "description": "의류 재활용 및 리폼 중개 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["재활용", "패션", "순환경제"],
+    "featured": true
+  },
+  {
+    "name": "k-turb-prototype",
+    "displayName": "K-터빈 프로토타입",
+    "description": "한국형 풍력 터빈 설계 프로토타입 시스템",
+    "category": "ESG/환경",
+    "tags": ["풍력", "신재생에너지", "터빈"],
+    "featured": false
+  },
+  {
+    "name": "re-wear",
+    "displayName": "Re-Wear",
+    "description": "옷 재사용 및 교환 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["재사용", "패션", "공유경제"],
+    "featured": false
+  },
+  {
+    "name": "guri-esg-platform",
+    "displayName": "구리시 ESG 플랫폼",
+    "description": "구리시 기업 및 기관의 ESG 경영 지원 플랫폼",
+    "category": "ESG/환경",
+    "tags": ["ESG", "지역경제", "지속가능성"],
+    "featured": false
+  },
+  {
+    "name": "k-trade-navigator",
+    "displayName": "K-무역 내비게이터",
+    "description": "한국 중소기업 수출입 지원 플랫폼",
+    "category": "기타",
+    "tags": ["무역", "수출", "중소기업"],
+    "featured": false
+  },
+  {
+    "name": "sgis-contest-compass",
+    "displayName": "SGIS 공모전 나침반",
+    "description": "통계지리정보 활용 공모전 지원 도구",
+    "category": "AI/데이터분석",
+    "tags": ["공모전", "GIS", "데이터분석"],
+    "featured": false
+  },
+  {
+    "name": "kr-code-chatbot",
+    "displayName": "한국 법령 챗봇",
+    "description": "한국 법령 정보를 제공하는 AI 챗봇",
+    "category": "AI/데이터분석",
+    "tags": ["법령", "챗봇", "AI"],
+    "featured": false
+  },
+  {
+    "name": "halal-life-connector",
+    "displayName": "할랄 라이프 커넥터",
+    "description": "무슬림 친화 생활 정보 플랫폼",
+    "category": "기타",
+    "tags": ["할랄", "다문화", "생활정보"],
+    "featured": false
+  },
+  {
+    "name": "gangnam-naneum-platform",
+    "displayName": "강남 나눔 플랫폼",
+    "description": "강남구 지역 나눔 및 기부 플랫폼",
+    "category": "시민참여/정부혁신",
+    "tags": ["나눔", "기부", "지역사회"],
+    "featured": false
+  },
+  {
+    "name": "forest-ai-companion-2025",
+    "displayName": "산림 AI 컴패니언 2025",
+    "description": "AI 기반 산림 관리 및 안내 시스템",
+    "category": "AI/데이터분석",
+    "tags": ["AI", "산림", "관리시스템"],
+    "featured": false
+  },
+  {
+    "name": "silvercare-ai",
+    "displayName": "실버케어 AI",
+    "description": "고령자 돌봄을 위한 AI 케어 시스템",
+    "category": "교육/복지",
+    "tags": ["고령자", "AI", "돌봄"],
+    "featured": true
+  },
+  {
+    "name": "a-ibootcamp15-smart-transit",
+    "displayName": "AI 부트캠프 스마트 트랜짓",
+    "description": "AI 기반 대중교통 최적화 시스템",
+    "category": "AI/데이터분석",
+    "tags": ["AI", "대중교통", "최적화"],
+    "featured": false
+  },
+  {
+    "name": "cheonan-art-network",
+    "displayName": "천안 예술 네트워크",
+    "description": "천안시 문화예술인 네트워킹 플랫폼",
+    "category": "기타",
+    "tags": ["예술", "문화", "네트워킹"],
+    "featured": false
+  },
+  {
+    "name": "gongju-integrity-dashboard",
+    "displayName": "공주시 청렴 대시보드",
+    "description": "공주시 공직자 청렴도 모니터링 시스템",
+    "category": "시민참여/정부혁신",
+    "tags": ["청렴", "투명성", "모니터링"],
+    "featured": false
+  },
+  {
+    "name": "llm-rag",
+    "displayName": "LLM RAG 시스템",
+    "description": "대형 언어 모델 기반 검색 증강 생성 시스템",
+    "category": "AI/데이터분석",
+    "tags": ["LLM", "RAG", "AI"],
+    "featured": true
+  },
+  {
+    "name": "smart-guarantee-diagnosis",
+    "displayName": "스마트 보증 진단",
+    "description": "AI 기반 보증 심사 및 진단 시스템",
+    "category": "AI/데이터분석",
+    "tags": ["AI", "금융", "보증"],
+    "featured": false
+  },
+  {
+    "name": "ai-medical-policy-portal",
+    "displayName": "AI 의료정책 포털",
+    "description": "의료정책 정보를 AI로 분석하고 제공하는 포털",
+    "category": "AI/데이터분석",
+    "tags": ["의료", "정책", "AI"],
+    "featured": false
+  },
+  {
+    "name": "customs-validation-demo",
+    "displayName": "관세 검증 데모",
+    "description": "수출입 관세 자동 검증 시스템 데모",
+    "category": "기타",
+    "tags": ["관세", "무역", "검증"],
+    "featured": false
+  },
+  {
+    "name": "kipris",
+    "displayName": "특허정보 검색",
+    "description": "한국 특허정보 통합 검색 시스템",
+    "category": "AI/데이터분석",
+    "tags": ["특허", "검색", "지식재산"],
+    "featured": false
+  },
+  {
+    "name": "kuksiwon",
+    "displayName": "국시원",
+    "description": "국가시험 정보 통합 플랫폼",
+    "category": "교육/복지",
+    "tags": ["시험", "자격증", "교육"],
+    "featured": false
+  },
+  {
+    "name": "komipo-power-forecast-pro",
+    "displayName": "한국중부발전 전력예측 프로",
+    "description": "AI 기반 전력 수요 예측 시스템",
+    "category": "AI/데이터분석",
+    "tags": ["전력", "예측", "AI"],
+    "featured": false
+  },
+  {
+    "name": "child-care-navigator-frontend",
+    "displayName": "육아 내비게이터",
+    "description": "맞춤형 육아 정보 및 지원 서비스 플랫폼",
+    "category": "교육/복지",
+    "tags": ["육아", "보육", "지원서비스"],
+    "featured": false
   }
 ]
